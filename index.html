@@ -14,40 +14,168 @@
     <link rel="stylesheet" href="css\main.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Roboto&display=swap" rel="stylesheet">
+    <script src="js\scripts.js"></script>
   </head>
-  <body>
+  <body id="body">
+    <header class="navigation">
+      <li class="menu">
+        <a class="menu-item" href="index.html">HOME</a>
+        <a class="menu-item" href="our-wine.html">OUR WINE</a>
+        <a class="menu-item" href="about.html">ABOUT</a>
+        <button class="menu-button">CONTACT US</button>
+      </li>
+      <img class="logo" src="resources\images\placeholder.svg" alt="logo" >
+      <ul class="social">
+        <img class="instagram" src="resources\images\instagram.svg" alt="instagram">
+        <img class="facebook" src="resources\images\facebook.svg" alt="facebook">
+      </ul>
+    </header>
     <div class="top-container">
-      <header class="navigation">
-        <li class="menu">
-          <a class="menu-item" href="index.html">HOME</a>
-          <a class="menu-item" href="our-wine.html">OUR WINE</a>
-          <a class="menu-item" href="about.html">ABOUT</a>
-        </li>
-        <img class="logo" src="resources\images\placeholder.svg" alt="logo">
-        <ul class="social">
-          <img class="instagram" src="resources\images\instagram.svg" alt="logo">
-          <img class="facebook" src="resources\images\facebook.svg" alt="logo">
-        </ul>
-      </header>
-      <div class="hero-description">
-        <h1>Personalised Wine</h1>
-        <h2>Luxury wine with a personal twist</h2>
-      </div>
-      <div class="steps">
-        <div class="step-item"><h3>1</span></h3>
-          <img class="step-image" src="resources\images\wine-bottle.png">
-          <p>Choose your wine </p>
-        </div>
-        <div class="step-item"><h3>2</h3>
-        <img class="step-image" src="resources\images\labels.png">
-        <p>Make a custom label. It's easy!</p>
-        </div>
-        <div class="step-item"><h3>3</h3>
-        <img class="step-image" src="resources\images\final-wine-bottle.png">
-        <p>Next day delivery</p>
-        </div>
+        <div class="grid-container">
+           <div class="grid-item"><h1 class="hero-title">Personalised Wine</h1><h2 class="hero-subtitle">Luxury wine with a personal twist</h2><button class="buy-button">ORDER NOW</button></div>
+           <div class="grid-item"><img class="hero-image" src="resources\images\hero-image.svg"></img></div>
         </div>
       </div>
-    </div>
+      <div class="second-container">
+        <h3>How it works</h3>
+        <hr>
+        <div class="steps-container">
+          <div class="steps-item"><img class="steps-image" src="resources\images\wine-bottle-vector.svg"></img></div>
+          <div class="steps-item"><img class="steps-image" src="resources\images\wine-label.svg"></div>
+          <div class="steps-item"><img class="steps-image" src="resources\images\choose-photo.svg"></div>
+          <div class="steps-item"><img class="steps-image" src="resources\images\delivery-truck.svg"></div>
+          <div class="steps-item"><h4>Step 1</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p></div>
+          <div class="steps-item"><h4>Step 2</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p></div>
+          <div class="steps-item"><h4>Step 3</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p></div>
+          <div class="steps-item"><h4>Step 4</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p></div>
+        </div>
+        <div class="ribbon-container">
+          <p class="ribbon">
+            <span class="ribbon-content">WINE WITH PERSONALISED LABELS PRINTED AND SHIPPED IN THE UK</span>
+          </p>
+        </div>
+        <div class="choose-label">
+          <h3>Choose a Label</h3>
+          <hr>
+          <div class="label-container">
+            <div class="label-item"><img class="label-image" src="resources\images\label-templates.svg"></img></div>
+            <div class="label-item"><img class="label-image" src="resources\images\label-templates.svg"></img></div>
+            <div class="label-item"><img class="label-image" src="resources\images\label-templates.svg"></img></div>
+            <div class="label-item"><img class="label-image" src="resources\images\label-templates.svg"></img></div>
+            <div class="label-item"><img class="label-image" src="resources\images\label-templates.svg"></img></div>
+            <div class="label-item"><button class="menu-button">PERSONALISE</button></div>
+            <div class="label-item"><button class="menu-button">PERSONALISE</button></div>
+            <div class="label-item"><button class="menu-button">PERSONALISE</button></div>
+            <div class="label-item"><button class="menu-button">PERSONALISE</button></div>
+            <div class="label-item"><button class="menu-button">PERSONALISE</button></div>
+          </div>
+        </div>
+        <div class="wine-origin">
+          <h3>Where Our Wine Comes From</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+            officia deserunt mollit anim id est laborum.</p>
+            <button class="menu-button">PERSONALISE</button>
+        </div>
+        <div class="testimonial-container">
+          <h3>Client Testimonials</h3>
+          <hr>
+          <div class="testimonials">
+          <div class="card">
+              <div class="layer"></div>
+              <div class="content">
+                  <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      tempor incididunt ut labore et dolore magna aliqua.</p>
+                      <div class="image">
+                          <img src="resources\images\Lisa-Riley.jpg">
+                      </div>
+                      <div class="reviews">
+                          <img src="resources\images\5 stars.svg">
+                      </div>
+                      <div class="details">
+                          <h2>Lisa Rely<br></h2>
+                      </div>
+              </div>
+          </div>
+          <div class="card">
+              <div class="layer"></div>
+              <div class="content">
+                  <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      tempor incididunt ut labore et dolore magna aliqua.</p>
+                      <div class="image">
+                          <img src="resources\images\John-Doe.jpg">
+                      </div>
+                      <div class="reviews">
+                          <img src="resources\images\5 stars.svg">
+                      </div>
+                      <div class="details">
+                          <h2>John Doe<br></h2>
+                      </div>
+              </div>
+          </div>
+          <div class="card">
+              <div class="layer"></div>
+              <div class="content">
+                  <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      tempor incididunt ut labore et dolore magna aliqua.</p>
+                      <div class="image">
+                          <img src="resources\images\Tom-Hanks.jpg">
+                      </div>
+                      <div class="reviews">
+                          <img src="resources\images\5 stars.svg">
+                      </div>
+                      <div class="details">
+                          <h2>Tom Hanks<br></h2>
+                      </div>
+              </div>
+          </div>
+        </div>
+        </div>
+        <div class="subscribe">
+          <div class="subscribe-container">
+            <div class="subscribe-item"><img class="subscribe-image" src="resources\images\subsribe-image.svg"></img></div>
+            <div class="subscribe-item"><h3>Want updates, discounts and news?</h3><p>Lorem ipsum dolor sit amet,
+              consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+              aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+              lacus vel facilisis. </p>
+              <section id="newsletter">
+              <div class="row justify-content-center">
+                 <div class="col-lg-6">
+                   <form action="" method="">
+                     <input type="email" name="email" placeholder="Enter your Email"><input type="submit" value="Subscribe">
+                   </form>
+                 </div>
+                </div>
+                </section>
+            </div>
+          </div>
+        </div>
+        <div class="empty-space">
+        </div>
+        <div class="site-footer">
+          <footer>
+            <h3>Uncork.Today is a UK Based Personalised Wine Gift Company</h3>
+            <div class="contact-container">
+              <div class="contact-item">
+                <h4>LINKS</h4><p><a href="index.html">HOME</a></p>
+                <p><a href="our-wine.html">OUR WINE</a></p>
+                <p><a href="about.html">ABOUT</a></p>
+                <p><a href="contact.html">CONTACT</a></p>
+              </div>
+              <div class="contact-item"><h4>SOCIAL MEDIA</h4>
+                <img class="contact-image" src="resources\images\instagram.svg" alt="instagram">
+                <img class="contact-image" src="resources\images\facebook.svg" alt="facebook">
+              </div>
+              <div class="contact-item"><h4>PAYMENT METHODS</h4>
+                <img class="contact-image" src="resources\images\payment-methods.svg" alt="payment-methods">
+              </div>
+            </div>
+            <p>Copyright 2021 - Made by Paul Gedrimas</p>
+          </footer>
+        </div>
+      </div>
   </body>
 </html>
