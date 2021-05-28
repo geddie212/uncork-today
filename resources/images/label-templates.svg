@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:4.252;stroke-miterlimit:10;}
+	.st1{fill:#F6884F;}
+	.st2{clip-path:url(#SVGID_2_);fill:#9DD8EF;}
+	.st3{clip-path:url(#SVGID_2_);fill:#F6884F;}
+	.st4{clip-path:url(#SVGID_4_);fill:url(#SVGID_5_);}
+	.st5{clip-path:url(#SVGID_7_);fill:#F6884F;}
+	.st6{clip-path:url(#SVGID_9_);fill:url(#SVGID_10_);}
+	.st7{clip-path:url(#SVGID_12_);fill:#D3EDF1;}
+	.st8{clip-path:url(#SVGID_12_);fill:#474747;}
+</style>
+<g id="Layer_2">
+	<rect x="5" y="5" class="st0" width="390" height="390"/>
+</g>
+<g id="Layer_1">
+	<rect x="72.2" y="239.9" class="st1" width="192.9" height="88.7"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="40.1" y="77.3" width="312.9" height="251.3"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st2" d="M72.2,239.9c16.3,0,29.6,19.8,29.6,44.3c0,24.5-13.2,44.3-29.6,44.3s-29.6-19.9-29.6-44.3
+			C42.6,259.7,55.9,239.9,72.2,239.9"/>
+		<path class="st3" d="M72.2,328.6h192.9v-44.3l-118.2-7.1l-104.2,7.1C42.6,308.7,55.9,328.6,72.2,328.6"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_3_" d="M234.8,284.2c0,24.5,13.2,44.3,29.6,44.3c16.3,0,29.6-19.9,29.6-44.3c0-24.5-13.2-44.3-29.6-44.3
+				C248,239.9,234.8,259.7,234.8,284.2"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="107.283" y1="275.02" x2="108.9375" y2="275.02" gradientTransform="matrix(35.7303 0 0 -35.7303 -3598.5005 10110.7568)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1.055050e-02" style="stop-color:#FFF9F4"/>
+			<stop  offset="9.086436e-02" style="stop-color:#FEDDC7"/>
+			<stop  offset="0.1775" style="stop-color:#FCC5A3"/>
+			<stop  offset="0.2694" style="stop-color:#FAB187"/>
+			<stop  offset="0.3683" style="stop-color:#F8A172"/>
+			<stop  offset="0.4767" style="stop-color:#F79663"/>
+			<stop  offset="0.5995" style="stop-color:#F68E58"/>
+			<stop  offset="0.7489" style="stop-color:#F68951"/>
+			<stop  offset="1" style="stop-color:#F6884F"/>
+		</linearGradient>
+		<rect x="234.8" y="239.9" class="st4" width="59.1" height="88.7"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_6_" x="40.1" y="77.3" width="312.9" height="251.3"/>
+		</defs>
+		<clipPath id="SVGID_7_">
+			<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st5" d="M267.3,259.2c8.6,0,15.5,11.2,15.5,25c0,13.8-6.9,25-15.5,25c-8.6,0-15.5-11.2-15.5-25
+			C251.8,270.4,258.7,259.2,267.3,259.2"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_8_" d="M160.9,77.3C38.2,200.7,42.6,284.2,42.6,284.2h192.1c0,0-4.4-83.5,118.3-206.9H160.9z"/>
+		</defs>
+		<clipPath id="SVGID_9_">
+			<use xlink:href="#SVGID_8_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="106.6487" y1="276.0315" x2="108.3032" y2="276.0315" gradientTransform="matrix(187.6038 0 0 -187.6038 -19965.0957 51965.3047)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1.055050e-02" style="stop-color:#FFF9F4"/>
+			<stop  offset="9.086436e-02" style="stop-color:#FEDDC7"/>
+			<stop  offset="0.1775" style="stop-color:#FCC5A3"/>
+			<stop  offset="0.2694" style="stop-color:#FAB187"/>
+			<stop  offset="0.3683" style="stop-color:#F8A172"/>
+			<stop  offset="0.4767" style="stop-color:#F79663"/>
+			<stop  offset="0.5995" style="stop-color:#F68E58"/>
+			<stop  offset="0.7489" style="stop-color:#F68951"/>
+			<stop  offset="1" style="stop-color:#F6884F"/>
+		</linearGradient>
+		<rect x="38.2" y="77.3" class="st6" width="314.8" height="206.9"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_11_" x="40.1" y="77.3" width="312.9" height="251.3"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st7" d="M131.1,150.4c-3.8,5-21.1,28.6-30.6,49.6c-0.6,1.3,0,2.8,1.3,3.3c0.3,0.1,0.6,0.2,1,0.2h116.4
+			c1,0,1.9-0.6,2.3-1.5c8.8-19.5,22.5-40.3,28.3-48.8c0.8-1.2,0.4-2.7-0.7-3.5c-0.4-0.3-0.9-0.4-1.3-0.4H133
+			C132.3,149.4,131.5,149.8,131.1,150.4"/>
+		<polygon class="st8" points="134.9,177 128.7,177 125.4,182.3 123.2,182.3 130.7,170.1 132.8,170.1 129.8,175.1 136,175.1 
+			139.1,170.1 141.2,170.1 133.8,182.3 131.6,182.3 		"/>
+		<path class="st8" d="M143.9,170.1h4.5c3.8,0,4.8,2.5,2.6,6.1c-2.1,3.6-5.9,5.8-10,6.1h-4.5L143.9,170.1z M142.1,180.4
+			c2.8-0.2,5.3-1.8,6.7-4.2c1.4-2.3,1.1-4.2-1.6-4.2h-2.4l-5.1,8.4H142.1z"/>
+		<polygon class="st8" points="161.5,170.1 163.6,170.1 157.3,180.4 162.7,180.4 161.5,182.3 154,182.3 		"/>
+		<path class="st8" d="M172.6,179.9h-5.8l-2.3,2.3h-2.3l12.2-12.1h2.7l-2.7,12.1H172L172.6,179.9z M168.6,178.1h4.6l1.5-6.1
+			L168.6,178.1z"/>
+		<path class="st8" d="M183.1,170.1h6c2.2,0,2.6,1.4,1.6,3.1c-0.8,1.4-2.2,2.4-3.8,2.8c1.2,0.2,1.4,1.5,0.5,3
+			c-1.2,2-3.3,3.2-5.5,3.3h-6.2L183.1,170.1z M182.5,180.4c1.2,0,2.3-0.7,2.9-1.7c0.6-0.9,0.4-1.7-0.8-1.7H181l-2.1,3.4H182.5z
+			 M185.6,175.1c1.1,0,2.1-0.6,2.7-1.6c0.6-0.9,0.4-1.6-0.7-1.6h-3.4l-1.9,3.2H185.6z"/>
+		<polygon class="st8" points="194.9,170.1 203.3,170.1 202.1,172 195.9,172 194,175.1 200,175.1 198.9,177 192.8,177 190.8,180.4 
+			197,180.4 195.8,182.3 187.5,182.3 		"/>
+		<polygon class="st8" points="205.4,170.1 207.6,170.1 201.3,180.4 206.7,180.4 205.5,182.3 198,182.3 		"/>
+		<path class="st8" d="M209.9,178.9c0.4,1.1,1.6,1.8,2.8,1.7c1.4,0.1,2.7-0.6,3.5-1.7c0.7-1.1-0.4-1.4-1.7-1.8
+			c-1.7-0.5-3.7-1.1-2.1-3.6c1.5-2.2,4-3.5,6.6-3.6c1.9,0,3.1,0.6,3.5,1.7l-2.2,1.6c-0.5-1-1.6-1.5-2.7-1.4c-1.2,0-2.3,0.5-3,1.5
+			c-0.6,0.9,0.5,1.3,1.7,1.6c1.7,0.5,3.7,1.1,2.1,3.8c-1.5,2.4-4.2,3.8-7,3.8c-2.2,0-3.4-0.8-3.8-1.9L209.9,178.9z"/>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+</g>
+</svg>
